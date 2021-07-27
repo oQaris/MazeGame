@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/oQaris/Desktop/Прочее/Проекты Visual Studio/_Важное/MazeGame/MazeGame/main.cpp
+iostream
+-
+conio.h
+-
+Windows.h
+-
+
