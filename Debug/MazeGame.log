@@ -1,5 +1,0 @@
-﻿  MazeGame.cpp
-C:\Users\Sergey\source\repos\MazeGame\MazeGame.cpp(140): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Sergey\source\repos\MazeGame\MazeGame.cpp(186): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "short *"
-  C:\Users\Sergey\source\repos\MazeGame\MazeGame.cpp(186): note: рекомендуется использовать "%hd" в строке форматирования
-  MazeGame.vcxproj -> C:\Users\Sergey\source\repos\MazeGame\Debug\MazeGame.exe

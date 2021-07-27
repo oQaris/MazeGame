@@ -1,3 +1,0 @@
-C:/Users/oQaris/Desktop/Прочее/Проекты Visual Studio/_Важное/MazeGame/MazeGame/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/oQaris/Desktop/Прочее/Проекты Visual Studio/_Важное/MazeGame/MazeGame/cmake-build-debug/CMakeFiles/MazeGame.dir
-C:/Users/oQaris/Desktop/Прочее/Проекты Visual Studio/_Важное/MazeGame/MazeGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
